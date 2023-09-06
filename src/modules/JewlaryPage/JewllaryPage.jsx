@@ -27,9 +27,9 @@ export const JewelleryPage = () => {
       <div className="md:grid md:grid-cols-4 gap-7 mt-9 w-[90%] mx-auto">
       
                   <BuyCard
-          title="Golden Ring"
-          imageSrc="images/ring.png"
-          price="10.00"
+          title="Baby bath Seat"
+          imageSrc="images/baby.png"
+            price="10.00"
                       description="Golden Titanium Rings For Girls beautiful ring in shiny"
                       onAddToCart={handleAddToCart}
         />

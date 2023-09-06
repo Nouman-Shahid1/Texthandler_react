@@ -25,6 +25,7 @@ export const Rings = () => {
             title="Golden Ring"
             imageSrc="images/ring.png"
             price="10.00"
+            link="https://amzn.to/44L4vmq"
             description="Golden Titanium Rings For Girls beautiful ring in shiny"
             onAddToCart={handleAddToCart}
           />
@@ -32,6 +33,7 @@ export const Rings = () => {
             title="Personalized name rings"
             imageSrc="images/ring2.png"
             price="10.00"
+            link="https://amzn.to/44L4vmq"
             description="Personalized name rings - beautiful ring in shiny"
             onAddToCart={handleAddToCart}
           />
@@ -39,6 +41,7 @@ export const Rings = () => {
             title="Finger Rose Flower Ring"
             imageSrc="images/ring3.png"
             price="10.00"
+            link="https://amzn.to/44L4vmq"
             description="Rose Flower Adjustable Stylish Finger Rose Flower Ring"
             onAddToCart={handleAddToCart}
           />
@@ -46,6 +49,7 @@ export const Rings = () => {
             title="Golden Ring"
             imageSrc="images/i-1.png"
             price="15.00"
+            link="https://amzn.to/44L4vmq"
             description="Beautiful Golden Ring with stylish Design And adjustable Price"
             onAddToCart={handleAddToCart}
           />
